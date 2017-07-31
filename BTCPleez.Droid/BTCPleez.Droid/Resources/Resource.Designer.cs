@@ -31,6 +31,141 @@ namespace BTCPleez.Droid
 		public partial class Attribute
 		{
 			
+			// aapt resource value: 0x7f01002c
+			public const int api_2_enabled = 2130772012;
+			
+			// aapt resource value: 0x7f010006
+			public const int beep_on_result = 2130771974;
+			
+			// aapt resource value: 0x7f010008
+			public const int blink_animation_on_result = 2130771976;
+			
+			// aapt resource value: 0x7f01002b
+			public const int camera_id = 2130772011;
+			
+			// aapt resource value: 0x7f010009
+			public const int cancel_on_result = 2130771977;
+			
+			// aapt resource value: 0x7f010013
+			public const int cutout_alignment = 2130771987;
+			
+			// aapt resource value: 0x7f010022
+			public const int cutout_crop_offset_x = 2130772002;
+			
+			// aapt resource value: 0x7f010023
+			public const int cutout_crop_offset_y = 2130772003;
+			
+			// aapt resource value: 0x7f010020
+			public const int cutout_crop_padding_x = 2130772000;
+			
+			// aapt resource value: 0x7f010021
+			public const int cutout_crop_padding_y = 2130772001;
+			
+			// aapt resource value: 0x7f01001f
+			public const int cutout_drawable = 2130771999;
+			
+			// aapt resource value: 0x7f01000a
+			public const int cutout_feedback_stroke_color = 2130771978;
+			
+			// aapt resource value: 0x7f010016
+			public const int cutout_max_height_percent = 2130771990;
+			
+			// aapt resource value: 0x7f010015
+			public const int cutout_max_width_percent = 2130771989;
+			
+			// aapt resource value: 0x7f010017
+			public const int cutout_offset_x = 2130771991;
+			
+			// aapt resource value: 0x7f010018
+			public const int cutout_offset_y = 2130771992;
+			
+			// aapt resource value: 0x7f010024
+			public const int cutout_outside_color = 2130772004;
+			
+			// aapt resource value: 0x7f01001d
+			public const int cutout_ratio_from_size_height = 2130771997;
+			
+			// aapt resource value: 0x7f01001c
+			public const int cutout_ratio_from_size_width = 2130771996;
+			
+			// aapt resource value: 0x7f01001e
+			public const int cutout_rect_corner_radius_in_dp = 2130771998;
+			
+			// aapt resource value: 0x7f01001b
+			public const int cutout_stroke_color = 2130771995;
+			
+			// aapt resource value: 0x7f01001a
+			public const int cutout_stroke_width_in_dp = 2130771994;
+			
+			// aapt resource value: 0x7f010019
+			public const int cutout_style = 2130771993;
+			
+			// aapt resource value: 0x7f010014
+			public const int cutout_width = 2130771988;
+			
+			// aapt resource value: 0x7f010026
+			public const int flash_alignment = 2130772006;
+			
+			// aapt resource value: 0x7f010029
+			public const int flash_image_auto = 2130772009;
+			
+			// aapt resource value: 0x7f010028
+			public const int flash_image_off = 2130772008;
+			
+			// aapt resource value: 0x7f010027
+			public const int flash_image_on = 2130772007;
+			
+			// aapt resource value: 0x7f010025
+			public const int flash_mode = 2130772005;
+			
+			// aapt resource value: 0x7f010000
+			public const int overlay_drawable = 2130771968;
+			
+			// aapt resource value: 0x7f010001
+			public const int overlay_outside_color = 2130771969;
+			
+			// aapt resource value: 0x7f010002
+			public const int preferred_picture_height = 2130771970;
+			
+			// aapt resource value: 0x7f010003
+			public const int preferred_picture_width = 2130771971;
+			
+			// aapt resource value: 0x7f010004
+			public const int preferred_preview_height = 2130771972;
+			
+			// aapt resource value: 0x7f010005
+			public const int preferred_preview_width = 2130771973;
+			
+			// aapt resource value: 0x7f01002a
+			public const int show_fps = 2130772010;
+			
+			// aapt resource value: 0x7f010007
+			public const int vibrate_on_result = 2130771975;
+			
+			// aapt resource value: 0x7f010011
+			public const int visual_feedback_animation_duration = 2130771985;
+			
+			// aapt resource value: 0x7f010010
+			public const int visual_feedback_animation_style = 2130771984;
+			
+			// aapt resource value: 0x7f01000f
+			public const int visual_feedback_corner_radius_in_dp = 2130771983;
+			
+			// aapt resource value: 0x7f01000e
+			public const int visual_feedback_fill_color = 2130771982;
+			
+			// aapt resource value: 0x7f010012
+			public const int visual_feedback_redraw_timeout = 2130771986;
+			
+			// aapt resource value: 0x7f01000c
+			public const int visual_feedback_stroke_color = 2130771980;
+			
+			// aapt resource value: 0x7f01000d
+			public const int visual_feedback_stroke_width_in_dp = 2130771981;
+			
+			// aapt resource value: 0x7f01000b
+			public const int visual_feedback_style = 2130771979;
+			
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -45,10 +180,43 @@ namespace BTCPleez.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int flash_control_background = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int logo = 2130837505;
+			public const int flash_icon = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int flash_icon_auto = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int flash_icon_off = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int ic_action_content_create = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int ic_action_content_save = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int ic_menu_copy_holo_dark = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int ic_menu_cut_holo_dark = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int ic_menu_paste_holo_dark = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int ic_menu_search_holo_dark = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int Icon = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int logo = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int textview_border = 2130837516;
 			
 			static Drawable()
 			{
@@ -63,17 +231,116 @@ namespace BTCPleez.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050003
-			public const int btnLogin = 2131034115;
+			// aapt resource value: 0x7f080018
+			public const int any = 2131230744;
 			
-			// aapt resource value: 0x7f050000
-			public const int imgLogo = 2131034112;
+			// aapt resource value: 0x7f080011
+			public const int auto = 2131230737;
 			
-			// aapt resource value: 0x7f050002
-			public const int txtPassword = 2131034114;
+			// aapt resource value: 0x7f080019
+			public const int back = 2131230745;
 			
-			// aapt resource value: 0x7f050001
-			public const int txtUser = 2131034113;
+			// aapt resource value: 0x7f080004
+			public const int blink = 2131230724;
+			
+			// aapt resource value: 0x7f08000b
+			public const int bottom = 2131230731;
+			
+			// aapt resource value: 0x7f08000c
+			public const int bottom_half = 2131230732;
+			
+			// aapt resource value: 0x7f080014
+			public const int bottom_left = 2131230740;
+			
+			// aapt resource value: 0x7f080015
+			public const int bottom_right = 2131230741;
+			
+			// aapt resource value: 0x7f080021
+			public const int btnLogin = 2131230753;
+			
+			// aapt resource value: 0x7f08000d
+			public const int center = 2131230733;
+			
+			// aapt resource value: 0x7f080000
+			public const int contour_point = 2131230720;
+			
+			// aapt resource value: 0x7f080001
+			public const int contour_rect = 2131230721;
+			
+			// aapt resource value: 0x7f080002
+			public const int contour_underline = 2131230722;
+			
+			// aapt resource value: 0x7f08001a
+			public const int front = 2131230746;
+			
+			// aapt resource value: 0x7f080010
+			public const int image = 2131230736;
+			
+			// aapt resource value: 0x7f08001c
+			public const int imgLogo = 2131230748;
+			
+			// aapt resource value: 0x7f080005
+			public const int kitt = 2131230725;
+			
+			// aapt resource value: 0x7f080012
+			public const int manual = 2131230738;
+			
+			// aapt resource value: 0x7f080022
+			public const int menu_edit = 2131230754;
+			
+			// aapt resource value: 0x7f080024
+			public const int menu_preferences = 2131230756;
+			
+			// aapt resource value: 0x7f080023
+			public const int menu_save = 2131230755;
+			
+			// aapt resource value: 0x7f080013
+			public const int none = 2131230739;
+			
+			// aapt resource value: 0x7f080006
+			public const int pulse = 2131230726;
+			
+			// aapt resource value: 0x7f080007
+			public const int pulse_random = 2131230727;
+			
+			// aapt resource value: 0x7f080003
+			public const int rect = 2131230723;
+			
+			// aapt resource value: 0x7f080008
+			public const int resize = 2131230728;
+			
+			// aapt resource value: 0x7f08001d
+			public const int textView1 = 2131230749;
+			
+			// aapt resource value: 0x7f08001f
+			public const int textView2 = 2131230751;
+			
+			// aapt resource value: 0x7f08001b
+			public const int toolbar = 2131230747;
+			
+			// aapt resource value: 0x7f08000e
+			public const int top = 2131230734;
+			
+			// aapt resource value: 0x7f08000f
+			public const int top_half = 2131230735;
+			
+			// aapt resource value: 0x7f080016
+			public const int top_left = 2131230742;
+			
+			// aapt resource value: 0x7f080017
+			public const int top_right = 2131230743;
+			
+			// aapt resource value: 0x7f080009
+			public const int traverse_multi = 2131230729;
+			
+			// aapt resource value: 0x7f08000a
+			public const int traverse_single = 2131230730;
+			
+			// aapt resource value: 0x7f080020
+			public const int txtPassword = 2131230752;
+			
+			// aapt resource value: 0x7f08001e
+			public const int txtUser = 2131230750;
 			
 			static Id()
 			{
@@ -89,7 +356,13 @@ namespace BTCPleez.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Login = 2130903040;
+			public const int Dashboard = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Login = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Toolbar = 2130903042;
 			
 			static Layout()
 			{
@@ -101,14 +374,67 @@ namespace BTCPleez.Droid
 			}
 		}
 		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f070000
+			public const int top_menu = 2131165184;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
+			{
+			}
+		}
+		
+		public partial class Raw
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int al_d6f3e042d13f4cc06b77dbdb2d2dcebaf46326e6 = 2130968576;
+			
+			static Raw()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Raw()
+			{
+			}
+		}
+		
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7f050008
+			public const int ApplicationName = 2131034120;
 			
-			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			// aapt resource value: 0x7f050007
+			public const int Hello = 2131034119;
+			
+			// aapt resource value: 0x7f050000
+			public const int allow_camera_permission = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int contact_info = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int flash_auto = 2131034114;
+			
+			// aapt resource value: 0x7f050003
+			public const int flash_off = 2131034115;
+			
+			// aapt resource value: 0x7f050004
+			public const int flash_on = 2131034116;
+			
+			// aapt resource value: 0x7f050005
+			public const int license_expiry_info = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int open_permission_settings = 2131034118;
 			
 			static String()
 			{
@@ -116,6 +442,215 @@ namespace BTCPleez.Droid
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f060000
+			public const int btcTheme = 2131099648;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] AnylineBaseModuleView = new int[] {
+					2130771974,
+					2130771975,
+					2130771976,
+					2130771977,
+					2130771978,
+					2130771979,
+					2130771980,
+					2130771981,
+					2130771982,
+					2130771983,
+					2130771984,
+					2130771985,
+					2130771986};
+			
+			// aapt resource value: 0
+			public const int AnylineBaseModuleView_beep_on_result = 0;
+			
+			// aapt resource value: 2
+			public const int AnylineBaseModuleView_blink_animation_on_result = 2;
+			
+			// aapt resource value: 3
+			public const int AnylineBaseModuleView_cancel_on_result = 3;
+			
+			// aapt resource value: 4
+			public const int AnylineBaseModuleView_cutout_feedback_stroke_color = 4;
+			
+			// aapt resource value: 1
+			public const int AnylineBaseModuleView_vibrate_on_result = 1;
+			
+			// aapt resource value: 11
+			public const int AnylineBaseModuleView_visual_feedback_animation_duration = 11;
+			
+			// aapt resource value: 10
+			public const int AnylineBaseModuleView_visual_feedback_animation_style = 10;
+			
+			// aapt resource value: 9
+			public const int AnylineBaseModuleView_visual_feedback_corner_radius_in_dp = 9;
+			
+			// aapt resource value: 8
+			public const int AnylineBaseModuleView_visual_feedback_fill_color = 8;
+			
+			// aapt resource value: 12
+			public const int AnylineBaseModuleView_visual_feedback_redraw_timeout = 12;
+			
+			// aapt resource value: 6
+			public const int AnylineBaseModuleView_visual_feedback_stroke_color = 6;
+			
+			// aapt resource value: 7
+			public const int AnylineBaseModuleView_visual_feedback_stroke_width_in_dp = 7;
+			
+			// aapt resource value: 5
+			public const int AnylineBaseModuleView_visual_feedback_style = 5;
+			
+			public static int[] AnylineView = new int[] {
+					2130771970,
+					2130771971,
+					2130771972,
+					2130771973,
+					2130771987,
+					2130771988,
+					2130771989,
+					2130771990,
+					2130771991,
+					2130771992,
+					2130771993,
+					2130771994,
+					2130771995,
+					2130771996,
+					2130771997,
+					2130771998,
+					2130771999,
+					2130772000,
+					2130772001,
+					2130772002,
+					2130772003,
+					2130772004,
+					2130772005,
+					2130772006,
+					2130772007,
+					2130772008,
+					2130772009};
+			
+			// aapt resource value: 4
+			public const int AnylineView_cutout_alignment = 4;
+			
+			// aapt resource value: 19
+			public const int AnylineView_cutout_crop_offset_x = 19;
+			
+			// aapt resource value: 20
+			public const int AnylineView_cutout_crop_offset_y = 20;
+			
+			// aapt resource value: 17
+			public const int AnylineView_cutout_crop_padding_x = 17;
+			
+			// aapt resource value: 18
+			public const int AnylineView_cutout_crop_padding_y = 18;
+			
+			// aapt resource value: 16
+			public const int AnylineView_cutout_drawable = 16;
+			
+			// aapt resource value: 7
+			public const int AnylineView_cutout_max_height_percent = 7;
+			
+			// aapt resource value: 6
+			public const int AnylineView_cutout_max_width_percent = 6;
+			
+			// aapt resource value: 8
+			public const int AnylineView_cutout_offset_x = 8;
+			
+			// aapt resource value: 9
+			public const int AnylineView_cutout_offset_y = 9;
+			
+			// aapt resource value: 21
+			public const int AnylineView_cutout_outside_color = 21;
+			
+			// aapt resource value: 14
+			public const int AnylineView_cutout_ratio_from_size_height = 14;
+			
+			// aapt resource value: 13
+			public const int AnylineView_cutout_ratio_from_size_width = 13;
+			
+			// aapt resource value: 15
+			public const int AnylineView_cutout_rect_corner_radius_in_dp = 15;
+			
+			// aapt resource value: 12
+			public const int AnylineView_cutout_stroke_color = 12;
+			
+			// aapt resource value: 11
+			public const int AnylineView_cutout_stroke_width_in_dp = 11;
+			
+			// aapt resource value: 10
+			public const int AnylineView_cutout_style = 10;
+			
+			// aapt resource value: 5
+			public const int AnylineView_cutout_width = 5;
+			
+			// aapt resource value: 23
+			public const int AnylineView_flash_alignment = 23;
+			
+			// aapt resource value: 26
+			public const int AnylineView_flash_image_auto = 26;
+			
+			// aapt resource value: 25
+			public const int AnylineView_flash_image_off = 25;
+			
+			// aapt resource value: 24
+			public const int AnylineView_flash_image_on = 24;
+			
+			// aapt resource value: 22
+			public const int AnylineView_flash_mode = 22;
+			
+			// aapt resource value: 0
+			public const int AnylineView_preferred_picture_height = 0;
+			
+			// aapt resource value: 1
+			public const int AnylineView_preferred_picture_width = 1;
+			
+			// aapt resource value: 2
+			public const int AnylineView_preferred_preview_height = 2;
+			
+			// aapt resource value: 3
+			public const int AnylineView_preferred_preview_width = 3;
+			
+			public static int[] CameraBridgeViewBase = new int[] {
+					2130772010,
+					2130772011};
+			
+			// aapt resource value: 1
+			public const int CameraBridgeViewBase_camera_id = 1;
+			
+			// aapt resource value: 0
+			public const int CameraBridgeViewBase_show_fps = 0;
+			
+			public static int[] CameraView = new int[] {
+					2130772012};
+			
+			// aapt resource value: 0
+			public const int CameraView_api_2_enabled = 0;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}
